@@ -1,0 +1,21 @@
+{
+  "navigationBarTitleText": "IMDb",
+  "navigationBarTextStyle": "black",
+  "navigationBarBackgroundColor": "#F5C518",
+  "backgroundColor": "#F8F8F8",
+  "enablePullDownRefresh": true,
+  "usingComponents": {
+    "uni-nav-bar": "/node-modules/@dcloudio/uni-ui/lib/uni-nav-bar/uni-nav-bar",
+    "uni-search-bar": "/node-modules/@dcloudio/uni-ui/lib/uni-search-bar/uni-search-bar",
+    "uni-drawer": "/node-modules/@dcloudio/uni-ui/lib/uni-drawer/uni-drawer",
+    "uni-card": "/node-modules/@dcloudio/uni-ui/lib/uni-card/uni-card",
+    "uni-collapse": "/node-modules/@dcloudio/uni-ui/lib/uni-collapse/uni-collapse",
+    "uni-collapse-item": "/node-modules/@dcloudio/uni-ui/lib/uni-collapse-item/uni-collapse-item",
+    "uni-rate": "/node-modules/@dcloudio/uni-ui/lib/uni-rate/uni-rate",
+    "uni-icons": "/node-modules/@dcloudio/uni-ui/lib/uni-icons/uni-icons",
+    "uni-fab": "/node-modules/@dcloudio/uni-ui/lib/uni-fab/uni-fab",
+    "uni-popup": "/node-modules/@dcloudio/uni-ui/lib/uni-popup/uni-popup",
+    "uni-load-more": "/node-modules/@dcloudio/uni-ui/lib/uni-load-more/uni-load-more",
+    "movie": "/components/movie"
+  }
+}
