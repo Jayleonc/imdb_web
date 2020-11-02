@@ -1,4 +1,4 @@
-### 后端：github.com/jayleonc/imdb
+### 后端：https:github.com/jayleonc/imdb
 # imdb
 ![](README_files/1.png)
 #### 介绍
