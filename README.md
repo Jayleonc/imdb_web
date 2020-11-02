@@ -1,5 +1,5 @@
-# [Java后端](https://github.com/jayleonc/imdb)
-## imdb
+### [Java后端地址](https://github.com/jayleonc/imdb)
+# imdb
 ![](README_files/1.png)
 #### 介绍
 ssm阶段的电影排行查看系统前端。
